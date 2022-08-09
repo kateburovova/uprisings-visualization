@@ -1,5 +1,6 @@
 Jupyter
-#geopandas==0.6.1
+geopandas
 #altair
 #pyogrio
-#fiona
+fiona
+
