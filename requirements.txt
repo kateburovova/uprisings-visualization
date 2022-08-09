@@ -1,6 +1,6 @@
 Jupyter
 geopandas
-#altair
+altair
 #pyogrio
 fiona
 
