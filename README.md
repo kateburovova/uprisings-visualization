@@ -9,4 +9,7 @@ Dataset is available at https://dataverse.harvard.edu/dataverse/navco
 
 The Code Book can be accessed at: https://drive.google.com/file/d/1DVyiptpY4OqvoLpdyyjaIHq0LLvUVHwU/view 
 
+## Visualizations are available here
+
+Since altair doesn't render in Jupyter, here's Colab containing the working *interactive* visualizations: https://colab.research.google.com/drive/13xFwHSgmFGW4SkZ7L2rSNaqBk7_-BEGE#scrollTo=3kfj7AW168lh 
 
